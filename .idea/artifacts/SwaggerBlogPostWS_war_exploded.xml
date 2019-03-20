@@ -1,0 +1,47 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SwaggerBlogPostWS:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SwaggerBlogPostWS_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SwaggerBlogPostWS/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SwaggerBlogPostWS" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: au.net.ocean.maven.plugin:maven-plugin-annotations:1.0" />
+          <element id="library" level="project" name="Maven: au.net.ocean.maven.plugin:maven-plugin:1.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.5" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.5" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.5" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.9.5" />
+          <element id="library" level="project" name="Maven: com.google.code.findbugs:annotations:2.0.1" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:15.0" />
+          <element id="library" level="project" name="Maven: io.swagger:swagger-annotations:1.5.20" />
+          <element id="library" level="project" name="Maven: io.swagger:swagger-core:1.5.20" />
+          <element id="library" level="project" name="Maven: io.swagger:swagger-jaxrs:1.5.20" />
+          <element id="library" level="project" name="Maven: io.swagger:swagger-models:1.5.20" />
+          <element id="library" level="project" name="Maven: javax.el:javax.el-api:3.0.0" />
+          <element id="library" level="project" name="Maven: javax.enterprise:cdi-api:2.0" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: javax.interceptor:javax.interceptor-api:1.2" />
+          <element id="library" level="project" name="Maven: javax.validation:validation-api:1.1.0.Final" />
+          <element id="library" level="project" name="Maven: javax.ws.rs:jsr311-api:1.1.1" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-artifact:3.6.0" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-model:3.6.0" />
+          <element id="library" level="project" name="Maven: org.apache.maven:maven-plugin-api:3.6.0" />
+          <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-classworlds:2.5.2" />
+          <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-component-annotations:1.5.5" />
+          <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-utils:3.1.0" />
+          <element id="library" level="project" name="Maven: org.eclipse.sisu:org.eclipse.sisu.inject:0.3.3" />
+          <element id="library" level="project" name="Maven: org.eclipse.sisu:org.eclipse.sisu.plexus:0.3.3" />
+          <element id="library" level="project" name="Maven: org.glassfish.maven.plugin:maven-glassfish-plugin:2.1" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.19.0-GA" />
+          <element id="library" level="project" name="Maven: org.reflections:reflections:0.9.10" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.22" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.18" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
